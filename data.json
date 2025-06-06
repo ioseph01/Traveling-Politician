@@ -1,0 +1,308 @@
+[
+  {
+    "state": "Iowa",
+    "capital": "Des Moines",
+    "lat": 41.5868,
+    "long": -93.6250
+  },
+  {
+    "state": "Alabama",
+    "capital": "Montgomery",
+    "lat": 32.3777,
+    "long": -86.3000
+  },
+  {
+    "state": "Alaska",
+    "capital": "Juneau",
+    "lat": 58.3019,
+    "long": -134.4197
+  },
+  {
+    "state": "Arizona",
+    "capital": "Phoenix",
+    "lat": 33.4484,
+    "long": -112.0740
+  },
+  {
+    "state": "Arkansas",
+    "capital": "Little Rock",
+    "lat": 34.7465,
+    "long": -92.2896
+  },
+  {
+    "state": "California",
+    "capital": "Sacramento",
+    "lat": 38.5816,
+    "long": -121.4944
+  },
+  {
+    "state": "Colorado",
+    "capital": "Denver",
+    "lat": 39.7392,
+    "long": -104.9903
+  },
+  {
+    "state": "Connecticut",
+    "capital": "Hartford",
+    "lat": 41.7658,
+    "long": -72.6734
+  },
+  {
+    "state": "Delaware",
+    "capital": "Dover",
+    "lat": 39.1582,
+    "long": -75.5244
+  },
+  {
+    "state": "Florida",
+    "capital": "Tallahassee",
+    "lat": 30.4383,
+    "long": -84.2807
+  },
+  {
+    "state": "Georgia",
+    "capital": "Atlanta",
+    "lat": 33.7490,
+    "long": -84.3880
+  },
+  {
+    "state": "Hawaii",
+    "capital": "Honolulu",
+    "lat": 21.3069,
+    "long": -157.8583
+  },
+  {
+    "state": "Idaho",
+    "capital": "Boise",
+    "lat": 43.6150,
+    "long": -116.2023
+  },
+  {
+    "state": "Illinois",
+    "capital": "Springfield",
+    "lat": 39.7980,
+    "long": -89.6440
+  },
+  {
+    "state": "Indiana",
+    "capital": "Indianapolis",
+    "lat": 39.7684,
+    "long": -86.1581
+  },
+  {
+    "state": "Kansas",
+    "capital": "Topeka",
+    "lat": 39.0558,
+    "long": -95.6890
+  },
+  {
+    "state": "Kentucky",
+    "capital": "Frankfort",
+    "lat": 38.2009,
+    "long": -84.8733
+  },
+  {
+    "state": "Louisiana",
+    "capital": "Baton Rouge",
+    "lat": 30.4515,
+    "long": -91.1871
+  },
+  {
+    "state": "Maine",
+    "capital": "Augusta",
+    "lat": 44.3106,
+    "long": -69.7795
+  },
+  {
+    "state": "Maryland",
+    "capital": "Annapolis",
+    "lat": 38.9784,
+    "long": -76.4922
+  },
+  {
+    "state": "Massachusetts",
+    "capital": "Boston",
+    "lat": 42.3601,
+    "long": -71.0589
+  },
+  {
+    "state": "Michigan",
+    "capital": "Lansing",
+    "lat": 42.7325,
+    "long": -84.5555
+  },
+  {
+    "state": "Minnesota",
+    "capital": "Saint Paul",
+    "lat": 44.9537,
+    "long": -93.0900
+  },
+  {
+    "state": "Mississippi",
+    "capital": "Jackson",
+    "lat": 32.2988,
+    "long": -90.1848
+  },
+  {
+    "state": "Missouri",
+    "capital": "Jefferson City",
+    "lat": 38.5767,
+    "long": -92.1735
+  },
+  {
+    "state": "Montana",
+    "capital": "Helena",
+    "lat": 46.5891,
+    "long": -112.0391
+  },
+  {
+    "state": "Nebraska",
+    "capital": "Lincoln",
+    "lat": 40.8136,
+    "long": -96.7026
+  },
+  {
+    "state": "Nevada",
+    "capital": "Carson City",
+    "lat": 39.1638,
+    "long": -119.7674
+  },
+  {
+    "state": "New Hampshire",
+    "capital": "Concord",
+    "lat": 43.2081,
+    "long": -71.5376
+  },
+  {
+    "state": "New Jersey",
+    "capital": "Trenton",
+    "lat": 40.2206,
+    "long": -74.7699
+  },
+  {
+    "state": "New Mexico",
+    "capital": "Santa Fe",
+    "lat": 35.6870,
+    "long": -105.9378
+  },
+  {
+    "state": "New York",
+    "capital": "Albany",
+    "lat": 42.6526,
+    "long": -73.7562
+  },
+  {
+    "state": "North Carolina",
+    "capital": "Raleigh",
+    "lat": 35.7796,
+    "long": -78.6382
+  },
+  {
+    "state": "North Dakota",
+    "capital": "Bismarck",
+    "lat": 46.8083,
+    "long": -100.7837
+  },
+  {
+    "state": "Ohio",
+    "capital": "Columbus",
+    "lat": 39.9612,
+    "long": -82.9988
+  },
+  {
+    "state": "Oklahoma",
+    "capital": "Oklahoma City",
+    "lat": 35.4676,
+    "long": -97.5164
+  },
+  {
+    "state": "Oregon",
+    "capital": "Salem",
+    "lat": 44.9429,
+    "long": -123.0351
+  },
+  {
+    "state": "Pennsylvania",
+    "capital": "Harrisburg",
+    "lat": 40.2732,
+    "long": -76.8867
+  },
+  {
+    "state": "Rhode Island",
+    "capital": "Providence",
+    "lat": 41.8236,
+    "long": -71.4222
+  },
+  {
+    "state": "South Carolina",
+    "capital": "Columbia",
+    "lat": 34.0007,
+    "long": -81.0348
+  },
+  {
+    "state": "South Dakota",
+    "capital": "Pierre",
+    "lat": 44.3683,
+    "long": -100.3509
+  },
+  {
+    "state": "Tennessee",
+    "capital": "Nashville",
+    "lat": 36.1627,
+    "long": -86.7816
+  },
+  {
+    "state": "Texas",
+    "capital": "Austin",
+    "lat": 30.2672,
+    "long": -97.7431
+  },
+  {
+    "state": "Utah",
+    "capital": "Salt Lake City",
+    "lat": 40.7608,
+    "long": -111.8910
+  },
+  {
+    "state": "Vermont",
+    "capital": "Montpelier",
+    "lat": 44.2601,
+    "long": -72.5754
+  },
+  {
+    "state": "Virginia",
+    "capital": "Richmond",
+    "lat": 37.5407,
+    "long": -77.4360
+  },
+  {
+    "state": "Washington",
+    "capital": "Olympia",
+    "lat": 47.0379,
+    "long": -122.9007
+  },
+  {
+    "state": "West Virginia",
+    "capital": "Charleston",
+    "lat": 38.3498,
+    "long": -81.6326
+  },
+  {
+    "state": "Wisconsin",
+    "capital": "Madison",
+    "lat": 43.0731,
+    "long": -89.4012
+  },
+  {
+    "state": "Wyoming",
+    "capital": "Cheyenne",
+    "lat": 41.1403,
+    "long": -104.8202
+  },
+  {
+    "state": "District of Columbia",
+    "capital": "Washington, D.C.",
+    "lat": 38.9072,
+    "long": -77.0369
+  }
+]
